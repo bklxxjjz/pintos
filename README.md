@@ -1,7 +1,7 @@
 CS162 Group Repository
 ======================
 
-This repository contains the project for Spring 2019 CS162 Operating Systems and System Programming at UC Berkeley. Members of the development team include Fanyu Meng, Ning Zhang and Yuanning Zhang.
+This repository contains the project for Spring 2019 CS162 Operating Systems and System Programming at UC Berkeley. Members of the development team include @fy-meng, @onionzn and @andyzhangyn. 
 
 **Design documents**
 
